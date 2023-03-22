@@ -4,7 +4,3 @@ Hello everyone, this is my portfolio for Advanced GIS. I'm a second-year Master 
 I am good at using GIS for preliminary data access and analysis in the urban design process, as well as data visualization. And I want to explore my future career path as an urban designer/urban data analyst, then I can make fun interactive maps to better engage with communities. I hope to learn more about GIS project management, spatial data science, and further improve my GIS skills in this class. 
 
 Traveling around the world, and experiencing the local architectural environment and culture has always been my favorite! I am also a fitness fanatic and obsessed with music. 
-
-Here's my cool new map!
-
-<iframe width="800" height="600" frameborder="0" allowfullscreen src="https://arcg.is/1G0PX90"></iframe>
