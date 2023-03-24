@@ -1,10 +1,10 @@
 Here's the customized Google Map for Riverlife
 
-The Color Palette I used
-![colorpanel](G:\我的云端硬盘\0_CMU_23Spring\90753 Advanced GIS\Week2\colorpanel.jpg)
-
 Screenshot of stylized map
-![map](G:\我的云端硬盘\0_CMU_23Spring\90753 Advanced GIS\Week2\riverlife.jpg)
+![riverlife](https://user-images.githubusercontent.com/127965922/227637214-bb181e1f-f6f1-47fb-8869-38a9bd9c78e2.jpg)
+
+The Color Palette I used
+![colorpanel](https://user-images.githubusercontent.com/127965922/227637290-507a45df-80bb-4b79-b0de-bd3f883ce4bd.jpg)
 
 A summary of your design decisions
 
