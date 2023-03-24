@@ -1,13 +1,17 @@
-**Here's the customized Google Map for Riverlife:**
+# Customized Google Map for Riverlife
 
 ![riverlife](https://user-images.githubusercontent.com/127965922/227637214-bb181e1f-f6f1-47fb-8869-38a9bd9c78e2.jpg)
 
-The color palette I used was extracted via Canva which perfectly matches the Riverlife website.
+The **color palette** I used was extracted via Canva which perfectly matches the Riverlife website.
 
 ![colorpanel](https://user-images.githubusercontent.com/127965922/227637290-507a45df-80bb-4b79-b0de-bd3f883ce4bd.jpg)
 
-Feature Type
-administrative.neighborhood labels.text.fill #c98d3a
+Here's how I made my design decisions:
+
+First, in the **Google Map Styling Wizard**, I started with the **Standard** theme that matches the overall style that I hope to emulate with my map.
+Then, 
+
+
 
 
 A summary of your design decisions
