@@ -2,10 +2,9 @@
 
 ![riverlife](https://user-images.githubusercontent.com/127965922/227637214-bb181e1f-f6f1-47fb-8869-38a9bd9c78e2.jpg)
 
-The Color Palette I used:
+The color palette I used was extracted via Canva which perfectly matches the Riverlife website.
 
 ![colorpanel](https://user-images.githubusercontent.com/127965922/227637290-507a45df-80bb-4b79-b0de-bd3f883ce4bd.jpg)
-I extracted this color palette via Canva which perfectly matches the Riverlife website.
 
 Feature Type
 administrative.neighborhood labels.text.fill #c98d3a
