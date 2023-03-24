@@ -1,6 +1,7 @@
 Here's the customized Google Map for Riverlife
 
-Color Palette I used
+The Color Palette I used
+
 
 Screenshot of stylized map
 
