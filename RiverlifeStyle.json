@@ -82,15 +82,6 @@
   },
   {
     "featureType": "road.highway",
-    "elementType": "geometry",
-    "stylers": [
-      {
-        "weight": 2
-      }
-    ]
-  },
-  {
-    "featureType": "road.highway",
     "elementType": "geometry.fill",
     "stylers": [
       {
