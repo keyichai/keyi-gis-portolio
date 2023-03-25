@@ -1,32 +1,24 @@
-# Bid: Customized Riverfront Guide Basemap for Riverlife
+<h1 align="center" style="margin-top: 0px;">Bid Proposal</h1>
 
-**Client information**
+<p align="center" >Customized Riverfront Guide Basemap for Riverlife</p>
+<p align="center" >Carnegie Mellon University, Keyi Chai</p>
+<p align="center" >March 25, 2023</p>
 
-[Riverlife](https://riverlifepgh.org/)
+**TO:**
 
-One North Shore Center
+*[Riverlife](https://riverlifepgh.org/)*
 
-12 Federal Street, Suite 130
+*One North Shore Center, 12 Federal Street, Suite 130*
 
-Pittsburgh, PA 15212
+*Pittsburgh, PA 15212*
 
-412-258-6636
+*412-258-6636*
 
-**Contractor information**
+## **Project timeline and cost**
 
-Keyi Chai
+The estimated completion time is approximately six hours after the start, with an estimated client cost of $600. 
 
-5533 Forbes Ave
-
-412-933-9172
-
-keyichai@andrew.cmu.edu
-
-**Job name**
-
-Customized [Riverfront Guide](https://riverlifepgh.org/riverfront-guide/) Basemap for Riverlife
-
-- **Screenshots for preview at 3 different zoom levels**
+## **Screenshots for preview at 3 different zoom levels**
 
 ![riverlife(1)](https://user-images.githubusercontent.com/127965922/227678457-e7a67792-8ce2-4dc4-81dc-876a35367c22.jpg)
 
@@ -34,13 +26,13 @@ Customized [Riverfront Guide](https://riverlifepgh.org/riverfront-guide/) Basema
 
 ![riverlife(3)](https://user-images.githubusercontent.com/127965922/227678463-75c0e127-8ae4-4f55-9d02-65c63e95cae3.jpg)
 
-- **Color palette**
+## **Color palette**
 
 The color palette I used was extracted via Canva which perfectly matches the Riverlife website.
 
 ![colorpanel](https://user-images.githubusercontent.com/127965922/227637290-507a45df-80bb-4b79-b0de-bd3f883ce4bd.jpg)
 
-- **Here's how I made my design decisions:**
+## **Here's how I made my design decisions**
 
 1. In the [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/), I started with the Standard theme that matched the overall style I wanted to emulate in the map.
 2. I changed the color of the water to Paradiso(#2b6376). By doing so, I emphasized the body of water and reduced the weight of vehicular traffic in the map by changing the color of the roads to white to highlight the green spaces and pedestrian system along the river. At the same time, I applied the green color from the palette to other ground features such as man-made landscapes (Aqua Haza #e9f2f0).
@@ -48,10 +40,10 @@ The color palette I used was extracted via Canva which perfectly matches the Riv
 
 Overall, I redesigned the base image to be less saturated, in order to better highlight bodies of water and riverlife-related items. 
 
-- **JSON code**
-Here's the link to my [JSON file](https://github.com/keyichai/keyi-gis-portolio/blob/6f1b86cd26628e608e8197bcf34f8b5e2852b0e2/RiverlifeStyle.json) and you can easily download and my JSON code and import via [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/) and get the exactly same style I designed!
+## **JSON code**
+Here's the link to my [JSON file](RiverlifeStyle.json) and you can easily download and my JSON code and import via [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/) and get the exactly same style I designed!
 
-- **Lookup Table**
+## **Lookup Table**
 In addition, I provide this lookup table that documents the feature type, element type and stylers for all relevant features, which you'll use to help navigate where to make changes.
 
 |Feature type |Element type |Stylers|
@@ -66,7 +58,3 @@ In addition, I provide this lookup table that documents the feature type, elemen
 |Road/Highway/Controlled_access|Labels/Icon|Visibility: off|
 |Water|Geometry|Color: Paradiso #2b6376|
 |Water|Labels|Color: White #ffffff|
-
-- **Project timeline and cost**
-
-After an agreement is reached, Keyi Chai will begin working on the project. The estimated completion time is approximately six hours after the start, with an estimated client cost of $600. 
