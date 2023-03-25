@@ -25,7 +25,20 @@ Overall, I redesigned the base image to be less saturated, in order to better hi
 Here's the link to my [JSON file](https://github.com/keyichai/keyi-gis-portolio/blob/6f1b86cd26628e608e8197bcf34f8b5e2852b0e2/RiverlifeStyle.json) and you can easily download and my JSON code and import via [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/) and get the exactly same style I designed!
 
 In addition, I provide this lookup table that documents the feature type, element type and stylers for all relevant features, which you'll use to help navigate where to make changes.
-(need a table here)
+
+|Feature type |Element type |Stylers|
+|-------------------------|---------------|---------------|
+|Administrative/Neighborhood |Labels/Text/Fill |Color: Tussock #c98d3a|
+|Landscape/Man_made          |Geometry/Fill    |Color: Aqua Haze #e9f2f0|
+|Landscape/Natural/Landcover |Geometry/Fill    |Color: Pastel Gray #cdd0c2|
+|POI|Labels|Visibility:off|
+|POI/Attraction| |Visibility: simplified|
+|POI/Park|Geometry/Fill|Color: Eton Blue #9ec798|
+|Road/Highway|Geometry/Fill|Color: White #ffffff|
+|Road/Highway/Controlled_access|Labels/Icon|Visibility: off|
+|Water|Geometry|Color: Paradiso #2b6376|
+|Water|Labels|Color: White #ffffff|
+
 
 ![RiverfrontGuide](https://user-images.githubusercontent.com/127965922/227637968-b9cdac67-f8ac-4ef9-b40b-3330cc783bee.jpg)
 
