@@ -1,4 +1,30 @@
-# Customized Riverfront Guide Basemap for Riverlife
+# Bid: Customized Riverfront Guide Basemap for Riverlife
+
+**Client information**
+
+[Riverlife](https://riverlifepgh.org/)
+
+One North Shore Center
+
+12 Federal Street, Suite 130
+
+Pittsburgh, PA 15212
+
+412-258-6636
+
+**Contractor information**
+
+Keyi Chai
+
+5533 Forbes Ave
+
+412-933-9172
+
+keyichai@andrew.cmu.edu
+
+**Job name**
+
+Customized [Riverfront Guide](https://riverlifepgh.org/riverfront-guide/) Basemap for Riverlife
 
 - **Screenshots for preview at 3 different zoom levels**
 
@@ -20,10 +46,12 @@ The color palette I used was extracted via Canva which perfectly matches the Riv
 2. I changed the color of the water to Paradiso(#2b6376). By doing so, I emphasized the body of water and reduced the weight of vehicular traffic in the map by changing the color of the roads to white to highlight the green spaces and pedestrian system along the river. At the same time, I applied the green color from the palette to other ground features such as man-made landscapes (Aqua Haza #e9f2f0).
 3. To make the attractions on the river stand out, I chose to hide some labels for non-public attractions and improve the font style by adding borders and changing the color of the font fill (Tussock #c98d3a for Neighborhood labels) to highlight the parks and trails along the river.
 
-Overall, I redesigned the base image to be less saturated, in order to better highlight bodies of water and riverlife-related items. And I finished all my tasks in **6** hours which cost only **$600**.
+Overall, I redesigned the base image to be less saturated, in order to better highlight bodies of water and riverlife-related items. 
 
+- **JSON code**
 Here's the link to my [JSON file](https://github.com/keyichai/keyi-gis-portolio/blob/6f1b86cd26628e608e8197bcf34f8b5e2852b0e2/RiverlifeStyle.json) and you can easily download and my JSON code and import via [Google Maps Styling Wizard](https://mapstyle.withgoogle.com/) and get the exactly same style I designed!
 
+- **Lookup Table**
 In addition, I provide this lookup table that documents the feature type, element type and stylers for all relevant features, which you'll use to help navigate where to make changes.
 
 |Feature type |Element type |Stylers|
@@ -39,6 +67,6 @@ In addition, I provide this lookup table that documents the feature type, elemen
 |Water|Geometry|Color: Paradiso #2b6376|
 |Water|Labels|Color: White #ffffff|
 
+- **Project timeline and cost**
 
-![RiverfrontGuide](https://user-images.githubusercontent.com/127965922/227637968-b9cdac67-f8ac-4ef9-b40b-3330cc783bee.jpg)
-
+After an agreement is reached, Keyi Chai will begin working on the project. The estimated completion time is approximately six hours after the start, with an estimated client cost of $600. 
