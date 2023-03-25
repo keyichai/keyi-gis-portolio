@@ -1,6 +1,6 @@
 # Customized Riverfront Guide Basemap for Riverlife
 
-- Screenshots for preview at 3 different zoom levels
+- **Screenshots for preview at 3 different zoom levels
 
 ![riverlife(1)](https://user-images.githubusercontent.com/127965922/227678457-e7a67792-8ce2-4dc4-81dc-876a35367c22.jpg)
 
@@ -8,8 +8,9 @@
 
 ![riverlife(3)](https://user-images.githubusercontent.com/127965922/227678463-75c0e127-8ae4-4f55-9d02-65c63e95cae3.jpg)
 
-- Color palette
-The **color palette** I used was extracted via Canva which perfectly matches the Riverlife website.
+- **Color palette
+
+The color palette I used was extracted via Canva which perfectly matches the Riverlife website.
 
 ![colorpanel](https://user-images.githubusercontent.com/127965922/227637290-507a45df-80bb-4b79-b0de-bd3f883ce4bd.jpg)
 
