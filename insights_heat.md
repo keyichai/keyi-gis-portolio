@@ -14,10 +14,10 @@ Explore our latest interactive dashboard to understand the disparity in urban he
 
 # LST & HOLC
 
-<iframe src="https://insights.arcgis.com/#/embed/f54b1a266a9c407baedba66b9c823900" width="60%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/f54b1a266a9c407baedba66b9c823900" width="50%" height="1200" frameborder="0"></iframe>
 
 # Surface Cover and LST
 
-<iframe src="https://insights.arcgis.com/#/embed/b51a41dddac5432e8507b63d6f5c92c3" width="60%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/b51a41dddac5432e8507b63d6f5c92c3" width="1000" height="1200" frameborder="0"></iframe>
 
 
