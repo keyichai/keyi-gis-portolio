@@ -11,16 +11,16 @@ Here are some of my selected work from this course.
 
  Google's Map Styling Wizard
  
-- Customized Riverfront Guide Basemap for Riverlife [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
+- Customized Riverfront Guide Basemap for Riverlife [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife.html)
 
  ArcGIS Vector Tile Style Editor
  
-- Summer festival locations for VisitPITTSBURGH [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo)
+- Summer festival locations for VisitPITTSBURGH [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo.html)
 
 ## Week 3: Spatial Data Analysis and Visualization with ArcGIS Insights
 
-- DEA's pain pill database [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_dea)
+- DEA's pain pill database [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_dea.html)
 
-- Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa)
+- Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa.html)
 
-- Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
+- Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH.html)
