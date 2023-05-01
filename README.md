@@ -27,4 +27,4 @@ Here are some of my selected work from this course.
 
 ## Final Project
 
-- Heat Inequity in Pittsburgh [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/Insights_heatInequity.html)
+- Heat Inequity in Pittsburgh [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_heatInequity.html)
