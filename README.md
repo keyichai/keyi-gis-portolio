@@ -5,8 +5,9 @@ I am good at using GIS for preliminary data access and analysis in the urban des
 
 Traveling around the world, and experiencing the local architectural environment and culture has always been my favorite! I am also a fitness fanatic and obsessed with music. 
 
-Here are some of my 
-- Customized map exercise: [Riverlife](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
+Here are some of my selected work from this course.
+
+- Customized map exercise: [Customized Riverfront Guide Basemap for Riverlife](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
 
 - Summer Fest [Summer Fest](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo)
 
