@@ -21,6 +21,6 @@ Here are some of my selected work from this course.
 
 - DEA's pain pill database [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_dea)
 
-- Fatal cycling incidents in Ottawa, Canada
+- Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa)
 
 - Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
