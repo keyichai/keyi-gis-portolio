@@ -23,4 +23,8 @@ Here are some of my selected work from this course.
 
 - Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa.html)
 
-- Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH.html)
+## Week 4,5,6,7: Spatial Data Science
+
+## Final Project
+
+- Heat Inequity in Pittsburgh [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH.html)
