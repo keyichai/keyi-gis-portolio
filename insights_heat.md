@@ -1,6 +1,6 @@
 Welcome to [The Pittsburgh Neighborhood Project](https://pittsburghneighborhoodproject.blog/)'s Heat Inequity Map, an interactive tool that sheds light on the unequal distribution of heat in Pittsburgh's neighborhoods. Using land surface temperature (LST) data from the hottest season between 2010 and 2019, we analyzed temperature differences between neighborhoods, taking into account both existing patterns of disadvantage and land surface cover factors. Our goal is to raise awareness about the issue of heat inequity and to provide insights that can help inform policy and community action. 
 
-Explore our latest interactive dashboard to understand the disparity in urban heat across Pittsburgh's neighborhoods.
+Explore our latest interactive dashboards to understand the disparity in urban heat across Pittsburgh's neighborhoods.
 
 # Land Surface Temperature Distribution Map by Neighborhood
 
