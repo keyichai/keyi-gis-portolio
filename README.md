@@ -5,5 +5,11 @@ I am good at using GIS for preliminary data access and analysis in the urban des
 
 Traveling around the world, and experiencing the local architectural environment and culture has always been my favorite! I am also a fitness fanatic and obsessed with music. 
 
+Here are some of my 
+- Customized map exercise: [Riverlife](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
 
-Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
+- Summer Fest [Summer Fest](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo)
+
+- Insights page [DEA pill database](https://keyichai.github.io/keyi-gis-portolio/insights_dea)
+
+- Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
