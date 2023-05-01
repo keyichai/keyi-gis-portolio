@@ -1,4 +1,4 @@
-# keyi-gis-portolio
+# KEYI CHAI GIS PORTFOLIO
 Hello everyone, this is my portfolio for Advanced GIS. I'm a second-year Master of Urban Design with a 5-year Bachelor of Urban Planning in China. Now I'm working as a research assistant for Smart Surfaces for Climate and Health project, focusing on mapping land surface temperature using Landsat.
 
 I am good at using GIS for preliminary data access and analysis in the urban design process, as well as data visualization. And I want to explore my future career path as an urban designer/urban data analyst, then I can make fun interactive maps to better engage with communities. I hope to learn more about GIS project management, spatial data science, and further improve my GIS skills in this class. 
@@ -7,10 +7,20 @@ Traveling around the world, and experiencing the local architectural environment
 
 Here are some of my selected work from this course.
 
-- Customized map exercise: [Customized Riverfront Guide Basemap for Riverlife](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
+## Week 2: Web cartography 
 
-- Summer Fest [Summer Fest](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo)
+ Google's Map Styling Wizard
+ 
+- Customized Riverfront Guide Basemap for Riverlife [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/CustomizedMapRiverlife)
 
-- Insights page [DEA pill database](https://keyichai.github.io/keyi-gis-portolio/insights_dea)
+ ArcGIS Vector Tile Style Editor
+ 
+- Summer festival locations for VisitPITTSBURGH [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo)
+
+## Week 3: Spatial Data Analysis and Visualization with ArcGIS Insights
+
+- DEA's pain pill database [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_dea)
+
+- Fatal cycling incidents in Ottawa, Canada
 
 - Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
