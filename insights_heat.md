@@ -17,3 +17,7 @@ Explore our latest interactive dashboard to understand the disparity in urban he
 # Land Surface Cover & Land Surface Temperature
 
 <iframe src="https://insights.arcgis.com/#/embed/b51a41dddac5432e8507b63d6f5c92c3" width="1000" height="1500" frameborder="0"></iframe>
+
+Overall, To address heat inequity in Pittsburgh, there are several strategies that can be implemented, such as increasing the number of green spaces, implementing cool roofs and pavements. It's also important to address the root causes of heat inequity, such as social and economic inequalities, and to involve community members in the decision-making process. 
+
+While growth and development may bring positive changes to some formerly redlined communities, such as Strip District and Lawrenceville, it's important to address the underlying systemic inequalities that continue to impact these neighborhoods and to ensure that efforts to address heat inequity are centered on equity and justice for all residents.
