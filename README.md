@@ -6,4 +6,4 @@ I am good at using GIS for preliminary data access and analysis in the urban des
 Traveling around the world, and experiencing the local architectural environment and culture has always been my favorite! I am also a fitness fanatic and obsessed with music. 
 
 
-Final Project: Heat Inequity in Pittsburgh
+Final Project: [Heat Inequity in Pittsburgh](https://keyichai.github.io/keyi-gis-portolio/heatInequityPGH)
