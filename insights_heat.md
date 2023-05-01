@@ -6,18 +6,18 @@ Explore our latest interactive dashboard to understand the disparity in urban he
 
 # LST Map by Neighborhood
 
-<iframe src="https://insights.arcgis.com/#/embed/655dbc5ab7c7421fac6a2789b8ae69f6" width="100%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/655dbc5ab7c7421fac6a2789b8ae69f6" width="60%" height="1200" frameborder="0"></iframe>
 
 # Level of Disadvantage & LST
 
-<iframe src="https://insights.arcgis.com/#/embed/a1fb18513c5c4f4b8f30c8ce2e08d01b" width="100%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/a1fb18513c5c4f4b8f30c8ce2e08d01b" width="60%" height="1200" frameborder="0"></iframe>
 
 # LST & HOLC
 
-<iframe src="https://insights.arcgis.com/#/embed/f54b1a266a9c407baedba66b9c823900" width="100%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/f54b1a266a9c407baedba66b9c823900" width="60%" height="1200" frameborder="0"></iframe>
 
 # Surface Cover and LST
 
-<iframe src="https://insights.arcgis.com/#/embed/b51a41dddac5432e8507b63d6f5c92c3" width="100%" height="1200" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/b51a41dddac5432e8507b63d6f5c92c3" width="60%" height="1200" frameborder="0"></iframe>
 
 
