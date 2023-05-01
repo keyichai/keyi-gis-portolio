@@ -4,7 +4,7 @@ Explore our latest interactive dashboard to understand the disparity in urban he
 
 # Land Surface Temperature Distribution Map by Neighborhood
 
-<iframe src="https://insights.arcgis.com/#/embed/655dbc5ab7c7421fac6a2789b8ae69f6" width="1000" height="2000" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/655dbc5ab7c7421fac6a2789b8ae69f6" width="1000" height="1500" frameborder="0"></iframe>
 
 # Neighborhood Disadvantage & Land Surface Temperature
 
