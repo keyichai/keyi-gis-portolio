@@ -7,7 +7,7 @@ Traveling around the world, and experiencing the local architectural environment
 
 Here are some of my selected work from this course.
 
-## Week 2: Web cartography 
+## Week 2: Web cartography 🗺
 
  Google's Map Styling Wizard
  
@@ -17,13 +17,13 @@ Here are some of my selected work from this course.
  
 - Summer festival locations for VisitPITTSBURGH [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/SummerFestDemo.html)
 
-## Week 3: Spatial Data Analysis and Visualization with ArcGIS Insights
+## Week 3: Spatial Data Analysis and Visualization with ArcGIS Insights 📊
 
 - DEA's pain pill database [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_dea.html)
 
 - Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa.html)
 
-## Week 4,5,6,7: Spatial Data Science
+## Week 4,5,6,7: Spatial Data Science 🧠
 
 ## Final Project
 
