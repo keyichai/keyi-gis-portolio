@@ -7,6 +7,11 @@ Traveling around the world, and experiencing the local architectural environment
 
 Here are some of my selected GIS work.
 
+## Selected Project
+
+- Heat Inequity in Pittsburgh [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_heat.html)
+- Better Bike Pittsburgh [(🔗link)](https://storymaps.arcgis.com/stories/cdf40d1c2be3452fb1b7af2230e2f524)
+- 
 ## Web cartography 🗺
 
  Google's Map Styling Wizard
@@ -24,8 +29,3 @@ Here are some of my selected GIS work.
 - Fatal cycling incidents in Ottawa, Canada  [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_ottawa.html)
 
 ## Spatial Data Science 🧠
-
-## Project
-
-- Heat Inequity in Pittsburgh [(🔗link)](https://keyichai.github.io/keyi-gis-portolio/insights_heat.html)
-- Better Bike Pittsburgh [(🔗link)](https://storymaps.arcgis.com/stories/cdf40d1c2be3452fb1b7af2230e2f524)
